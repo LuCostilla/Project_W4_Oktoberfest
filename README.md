@@ -36,7 +36,9 @@ After I've got the 3 dataframes, I've started to clean them to get the correct i
 ### Conclusions: 
 
 · The Year that less attendants went to the Oktoberfest was 2001, the year that 3 important terrorist attacks happend. In Spain: "Atentado de Rosas" and in the US "Atentado a las torres gemelas". 
+
 · Something courious is that during 2016 when the beer price was over 10€ was not the date that less daily attendants went and also was not the day that lees beer was consumed. 
+
 · The year that more beer consumption was, matches the year that more daily attendants were (2016), however 2001 was the year with the highest roast chicken consume.
 
 
